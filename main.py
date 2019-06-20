@@ -1,3 +1,14 @@
+# ========================Virtual Assistant ===================================
+#  *   Virtual Assistant Python.
+# =============================================================================
+#  *   Created By Eric Theodore Cornetto(Ida Bagus Dwi Putra Purnawa).
+#  *   Github (https://github.com/EricCornetto).
+# =============================================================================
+#  *   GNU General Public License v3.0.
+# =============================================================================
+#             Python Artificial Intellegence
+# =============================================================================
+
 from gtts import gTTS
 import playsound
 import speech_recognition as sr
